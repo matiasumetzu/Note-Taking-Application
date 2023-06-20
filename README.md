@@ -5,7 +5,6 @@ Welcome to the Note Taking Application! This is a simple note-taking program dev
 ## Features
 
 - Create, edit, and delete notes
-- Search for specific notes
 - User-friendly interface
 
 ## Getting Started
